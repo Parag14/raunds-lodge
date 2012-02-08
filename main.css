@@ -1,0 +1,58 @@
+body {
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 0px; padding:0px;
+	text-decoration: none;
+	color: #373737;
+	background-color: #F6FAE7;
+	font-size:12px;
+}
+td {font-family: Arial, Helvetica, sans-serif;}
+p {line-height:16px; margin:0px; padding:5px}
+
+/* list attributes */
+.li{list-style-image:url(images/RightArrow.jpg); background-position:left center;  line-height: 22px;}
+.ul{ margin:0px; padding-left:17px; padding-bottom:0px; padding-top:0px; margin-left:10px}
+
+.li1{list-style-image:url(images/RightArrow.jpg); background-position:left center;  line-height: 16px; padding:5px; padding-right:10px;}
+.ul1{ margin:0px; padding-left:17px; padding-bottom:5px; padding-top:0px; margin-left:10px}
+
+/* Text Attributes */
+.heading1 {	font-size: 16px; font-weight: bold; text-decoration: none; color: #D55A65;}
+.greentext {color: #6F9100;}
+.normaltext{line-height:16px; margin:0px;}
+
+/* Links */
+.Link_Blue{	color:#3F73A5; text-decoration:none}
+.Link_Blue:hover{ color:#ff6600; text-decoration:none}
+
+.readmore{ font-size:11px; color:#3F73A5; text-decoration:none}
+.readmore:hover{font-size:11px; color:#ff6600; text-decoration:none}
+
+/* background attributes */
+.bg_green_title {background-color:#A9C820; font-size:16px; font-weight:bold; color:#ffffff;}
+.bg_green { background-color:#6F9100;}
+.bg_header{background-image: url('images/header_bg.jpg'); background-repeat:repeat-x; height:133px;}
+.bgshadowleft {background-image: url('images/page_shadow_left.png'); background-repeat:repeat-y; background-position:right top; width:12px}
+.bgshadowright {background-image: url('images/page_shadow_right.png'); background-repeat:repeat-y; background-position:left top; width:12px}
+.bg_footer{background-image: url('images/footerbg.jpg'); background-repeat:repeat-x; height:25px; color:#3D434A}
+
+/* padding attributes */
+.pad5{padding:5px;}
+.pad10{padding:10px;}
+.pad8{padding:8px;}
+.padl8{padding-left::8px;}
+.padr8{padding-right::8px;}
+.padlr8{padding-right::8px; padding-left:8px}
+.padl5{padding-left:5px;}
+.padl10{padding-left:10px;}
+.padr5{padding-right:5px;}
+.padr10{padding-right:10px;}
+.padl5{padding-left:5px;}
+.padl5{padding-left:5px;}
+.padt5{padding-top:5px;}
+.padt10{padding-top:10px;}
+.padtb10{padding-top:10px; padding-bottom:10px;}
+.padlr10{padding-left:10px; padding-right:10px;}
+
+.brd1{ border:1px solid #DCDCDC;}
+.scrollDiv{	 float: left; width:880px; height:162px; overflow:scroll; clear:both}
