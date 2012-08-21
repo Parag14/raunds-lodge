@@ -1,0 +1,4 @@
+2012/08/21 13:21:22 [error] 26617#0: *97407 could not find named location "@handler", client: 81.136.219.219, server: raundslodge.com, request: "GET /favicon.ico HTTP/1.1", host: "www.raundslodge.co.uk"
+2012/08/21 13:22:01 [error] 26617#0: *97408 directory index of "/u/apps/derp-octo-hipster/" is forbidden, client: 81.136.219.219, server: raundslodge.com, request: "GET / HTTP/1.1", host: "www.raundslodge.co.uk"
+2012/08/21 13:22:02 [error] 26617#0: *97408 could not find named location "@handler", client: 81.136.219.219, server: raundslodge.com, request: "GET /favicon.ico HTTP/1.1", host: "www.raundslodge.co.uk"
+2012/08/21 13:22:14 [error] 26617#0: *97406 could not find named location "@handler", client: 81.136.219.219, server: raundslodge.com, request: "GET /favicon.ico HTTP/1.1", host: "www.raundslodge.co.uk"
